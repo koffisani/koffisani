@@ -1,6 +1,6 @@
 ### Hi there 👋!!! It is Koffi
 
-An IT & Software Engineer from Togo. Experienced in working with PHP, Python, Django, JAVA, and not language-limited. 
+An IT & Software Engineer from Togo. Experienced in working with PHP, CakePHP, Python, Django, JAVA, and not language-limited. 
 
 Always ready to adopt any language that fits a project's specifications.
 
