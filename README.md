@@ -9,8 +9,6 @@ Always ready to adopt any language that fits a project's specifications.
 Ready to collaborate on projects that improve digital transformation in Africa.
 
 
-🔭 I’m currently improving [Gabways](https://www.gabways.io) 
-
 
 <!--
 **koffisani/koffisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
