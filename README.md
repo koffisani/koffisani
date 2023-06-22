@@ -1,8 +1,8 @@
 ### Hi there 👋!!! It is Koffi
 
-An IT & Software Engineer from Togo. Experienced in working with PHP, Python, JAVA, and not language-limited. 
+An IT & Software Engineer from Togo. Experienced in working with C#.NET, PHP, Python, JAVA, and not language-sensitive. 
 
-Used a bunch of development frameworks such as CakePHP, Yii Framework, Laravel, Django, FastAPI, ... and open to explore any other framework required to achieve specific goals.
+Used a bunch of development frameworks such as ASP.NET Core, CakePHP, Yii Framework, Laravel, Django, FastAPI, ... and open to explore any other framework required to achieve specific goals.
 
 Always ready to adopt any language that fits a project's specifications.
 
